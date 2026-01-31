@@ -3,7 +3,7 @@
 
 <p>
 
-  - 🔭 I worked at **Banking, Contract Lifecycle Management, Cyber Security Domain**
+  - 🔭 I worked at **Banking, Contract Lifecycle Management, Cyber Security, Marketing Analytics Domain**
   
   - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pratikpanchal4472)
 </p>

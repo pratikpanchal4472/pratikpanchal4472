@@ -1,24 +1,58 @@
-<h1>Hi 👋, I'm Pratik Panchal</h1>
-<h3>Java Jedi | Building Resilient, High-Impact Systems for Modern Enterprises</h3>
+# Hi 👋, I'm Pratik Panchal
 
-<p>
+### Principal Architect · AI/ML-Native Systems · Data Engineering · Cloud-Native
 
-  - 🔭 I worked at **Banking, Contract Lifecycle Management, Cyber Security, Marketing Analytics Domain**
-  
-  - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pratikpanchal4472)
-</p>
+```json
+{
+  "focus"    : ["Privacy-preserving ML", "Streaming data pipelines", "Agentic AI"],
+  "location" : "Ahmedabad, India 🇮🇳",
+  "exp"      : "13+ years",
+  "building" : "storytube.fun — AI-powered Indian children's animation platform"
+}
+```
 
-<h3 align="left">💬 Ask me about:</h3>
-<p align="left">
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=512" alt="Java" height="40" width="40" />
-<img align="center" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="Spring Boot" height="40" width="40" />
-<img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/012/697/296/small/3d-golang-programming-language-logo-free-png.png" alt="React" height="40" width="40" />
-<img align="center" src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" alt="Python" height="40" width="40" />
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256" alt="React" height="40" width="40" />
-</p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pratikpanchal4472" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikpanchal4472" height="30" width="40" /></a>
-<a href="https://x.com/pratik_pan82506" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_pan82506" height="30" width="40" /></a>
-</p>
+### 🏗️ Impact at a glance
+
+| 🟢 10M+ records | 🟡 60% cost cut | 🔵 20K events/sec |
+|---|---|---|
+| Zero PII exposure via AWS Clean Rooms + Milvus | Legacy batch → streaming modernisation | Python microservice scale at Abstract Security |
+
+---
+
+### 🧰 Current stack
+
+| Layer | Tools |
+|---|---|
+| Cloud & ML | AWS Clean Rooms · SageMaker · EKS · Bedrock · Lambda |
+| Data | Apache Flink · Kafka · Temporal · Airflow · Apache Doris |
+| AI / Vectors | Milvus · HNSW · ONNX · PyTorch · n8n · Claude Code |
+| Backend | Java · Spring Boot · Python · FastAPI · Go (Gin) |
+| DevOps / IaC | Terraform · CDK · ArgoCD · Helm · GitHub Actions (OIDC) |
+| Frontend | React · Next.js · TypeScript · Angular |
+
+---
+
+### 📅 Career
+
+```
+2025 → now   Principal Architect      @ Armakuni Private Limited
+2022 → 2024  Engineering Tech Lead    @ Crest Data Systems
+2017 → 2022  Principal Engineer       @ Malbek Solutions LLP
+2015 → 2017  Software Engineer        @ Revitas (ModeIN)
+2012 → 2015  Assoc → Senior SWE       @ Accenture
+```
+
+---
+
+### 🎓 Certifications
+
+`AWS CCP` · `PSM I` · `Claude Code (Anthropic)` · `Apache Flink` · `n8n Automation` · `Amazon Connect` · `Spring AI` · `IIT Delhi AI`
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikpanchal4472-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pratikpanchal4472)
+[![Email](https://img.shields.io/badge/Email-pnchlprtk%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:pnchlprtk@gmail.com)

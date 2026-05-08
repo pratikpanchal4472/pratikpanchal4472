@@ -6,8 +6,7 @@
 {
   "focus"    : ["Privacy-preserving ML", "Streaming data pipelines", "Agentic AI"],
   "location" : "Ahmedabad, India 🇮🇳",
-  "exp"      : "13+ years",
-  "building" : "storytube.fun — AI-powered Indian children's animation platform"
+  "exp"      : "13+ years"
 }
 ```
 
@@ -48,7 +47,7 @@
 
 ### 🎓 Certifications
 
-`AWS CCP` · `PSM I` · `Claude Code (Anthropic)` · `Apache Flink` · `n8n Automation` · `Amazon Connect` · `Spring AI` · `IIT Delhi AI`
+`AWS CCP` · `PSM I` · `Claude Code (Anthropic)` · `Apache Flink` · `n8n Automation` · `Amazon Connect` · `Spring AI` 
 
 ---
 

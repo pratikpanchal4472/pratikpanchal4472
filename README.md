@@ -38,11 +38,12 @@
 ### 📅 Career
 
 ```
-2025 → 2026  Principal Architect      @ Armakuni Private Limited
-2022 → 2024  Engineering Tech Lead    @ Crest Data Systems
-2017 → 2022  Principal Engineer       @ Malbek Solutions LLP
-2015 → 2017  Software Engineer        @ Revitas (ModeIN)
-2012 → 2015  Assoc → Senior SWE       @ Accenture
+2026 → Present  Director/Principal Engineer      @ ProductSquads
+2025 → 2026     Principal Architect              @ Armakuni Private Limited
+2022 → 2024     Engineering Tech Lead            @ Crest Data Systems
+2017 → 2022     Principal Engineer               @ Malbek Solutions LLP
+2015 → 2017     Software Engineer                @ Revitas (ModeIN)
+2012 → 2015     Assoc → Senior SWE               @ Accenture
 ```
 
 ---
